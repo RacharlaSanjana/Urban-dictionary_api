@@ -8,7 +8,7 @@ kill.addEventListener("submit",function(e)
     e.preventDefault();
     console.log(input.value);
 
-const apiKey = "1f67d1f337mshc2a539b03ac37aep1ced8djsn5a177350d8e0";
+const apiKey = "";
 const apiUrl = "https://mashape-community-urban-dictionary.p.rapidapi.com/define";
 
 // Define a function to retrieve the data
